@@ -207,3 +207,10 @@ $ git add -A . ; git commit -am "Godep workspace -> vendor/"
 1. Increment the version in `version.go`.
 1. Tag the commit with the same version number.
 1. Update `Changelog.md`.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
